@@ -1,0 +1,88 @@
+body {
+    background-image: url(/Users/familiafaria/Documents/SPTech/PI/fundo.png);
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: block;
+    scroll-behavior: smooth;
+
+}
+
+
+
+.caixa_cadastro {
+    background-color: #e0e0e0e8;
+    height: 600px;
+    width: 1200px;
+    margin-left: 6%;
+    margin-top: 3%;
+    border-radius: 25px;
+    position: absolute;
+
+}
+
+.titulo_cadastro {
+    color: black;
+    font-family: 'Red Hat Display', sans-serif;
+    margin-left: 8%;
+    margin-top: 5%;
+    font-size: 60px;
+    font-weight: bold;
+    width: 300px;
+    float: left;
+}
+
+.titulo_imagem {
+    float: left;
+    width: 400px;
+}
+
+.titulo_imagem img {
+    margin-left: 80%;
+    margin-top: 20%;
+}
+
+.titulo_new {
+    font-size: 40px;
+    margin-top: 6.5%;
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+.div_imagem {
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-right: 30%;
+}
+
+.div1 {
+    height: 50%;
+    width: 50%;
+    margin-left: 1%;
+    margin-right: 1%;
+    float: left;
+}
+
+.div2 {
+    height: 50%;
+    width: 50%;
+    margin-left: 1%;
+    margin-right: 1%;
+    float: left;
+}
+
+.inputs {
+    height: 50%;
+    width: 50%;
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    float: left;
+}
+
+.segunda_input {
+    height: 80%;
+    width: 80%;
+    margin-top: 2%;
+    margin-right: 2%;
+    float: left;
+}
